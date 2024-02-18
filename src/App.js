@@ -101,7 +101,7 @@ export default function App() {
           You Selected <span className="highlight">{selectedCity},</span>
           <span className="fade">
             {" "}
-            {selectedCountry}, {selectedState}
+            {selectedState}, {selectedCountry}
           </span>
         </h2>
       )}
